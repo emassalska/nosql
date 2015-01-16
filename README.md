@@ -72,7 +72,7 @@ Lista:
 1. Gonera, Ewa
 1. Hinz, Karol
 1. Kalarus, Marcin
-1. Massalska, Emilia
+1. Massalska, Emilia [Zadanie 3](https://github.com/emassalska/mapreduce)
 1. Mazur, Michał. [Zadanie 3](https://github.com/MajkelMatusaf/Zadanie3NoSql)
 1. Michalski, Mateusz
 1. Miszczykowski, Mariusz
